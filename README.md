@@ -1,4 +1,4 @@
-# nestjsmongodbcrud
+# nestjscrud
 # Install
 ### npm install
 # Run
